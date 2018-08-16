@@ -1,0 +1,12 @@
+{
+    "name": "Pi_3",
+    "description": "Various flows for house automation",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_Pi3.json",
+            "credentialsFile": "flows_Pi3_cred.json"
+        }
+    }
+}
